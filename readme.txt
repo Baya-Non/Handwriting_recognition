@@ -1,0 +1,5 @@
+手書き文字認識プログラム
+
+Character_processingにて文字画像の処理
+Create_aveにて1文字二十種類の文字を平均化
+Character_recognitionにて平均化した各文字データを用いて文字を認識します。
